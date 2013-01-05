@@ -1,0 +1,6 @@
+print
+printf
+break
+delete
+exit（退出BODY，跳到END）
+next（读取下一条记录）
